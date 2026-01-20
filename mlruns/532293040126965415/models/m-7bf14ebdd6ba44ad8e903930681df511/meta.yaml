@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/jebet/MachineLearning/MlOpsApp/mlruns/532293040126965415/models/m-7bf14ebdd6ba44ad8e903930681df511/artifacts
+creation_timestamp: 1768878340689
+experiment_id: '532293040126965415'
+last_updated_timestamp: 1768878350973
+model_id: m-7bf14ebdd6ba44ad8e903930681df511
+model_type: null
+name: model
+source_run_id: 2455be0a77584e8684ee62e49a1887f2
+status: 2
+status_message: null
